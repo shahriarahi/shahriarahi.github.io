@@ -1,6 +1,6 @@
 # Fall'26 Ph.D. Aspirant
 
-Electrical and Electronic Engineer with over 4 years of combined academic and research experience in **machine learning, computer architecture, digital circuit design, and compact device modeling**. I work at the intersection of **VLSI, RISC-V processors, and applied deep learning**.
+Electrical and Electronic Engineer with over 4 years of combined academic and research experience in **machine learning, computer architecture, digital circuit design, and compact device modeling**. I work at the intersection of **VLSI, RISC-V processors, and  deep learning**.
 
 📍 Dhaka, Bangladesh  
 📧 rahi.ahmed3226@gmail.com  
