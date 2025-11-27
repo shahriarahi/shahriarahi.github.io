@@ -1,11 +1,11 @@
-# Shahriar Ahmed — Academic & Engineering Portfolio
+# Fall'26 Ph.D. Aspirant
 
-Electrical and Electronic Engineer with over 4 years of combined academic and research experience in **machine learning, computer architecture, digital circuit design, and compact device modeling**. I work at the intersection of **VLSI, RISC-V processors, nano-electronic device modeling, and applied deep learning**.
+Electrical and Electronic Engineer with over 4 years of combined academic and research experience in **machine learning, computer architecture, digital circuit design, and compact device modeling**. I work at the intersection of **VLSI, RISC-V processors, and applied deep learning**.
 
 📍 Dhaka, Bangladesh  
 📧 rahi.ahmed3226@gmail.com  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=-lYnDjgAAAAJ&hl=en)  
-🔗 [GitHub](https://github.com/shahriar193)
+🔗 [Linkedin](https://www.linkedin.com/in/shahriar-ahmed-41251b322/)
 
 ---
 
@@ -23,7 +23,7 @@ Electrical and Electronic Engineer with over 4 years of combined academic and re
 ## 🎓 Education
 
 **Bangladesh University of Engineering and Technology (BUET)**  
-_B.Sc. in Electrical and Electronic Engineering (ElectRONICS & Photonics Major)_  
+_B.Sc. in Electrical and Electronic Engineering (Electronics & Photonics Major)_  
 **2019 – 2024** | CGPA: **3.81 / 4.00**  
 - Thesis: *Design and Verification of a Five Stage Pipeline RISC-V Core*  
 - Conference presentation at CUET (ECCE 2025)
@@ -48,7 +48,7 @@ _B.Sc. in Electrical and Electronic Engineering (ElectRONICS & Photonics Major)_
 ## 💼 Academic & Industrial Experience
 
 ### Adjunct Lecturer — Southeast University (2025–Present)
-- Course delivery and assessment using Google Classroom  
+- Course content preparation, delivery and assessment using Google Classroom 
 - Courses taught:
   - Electronic Devices & Circuits I  
   - Digital Logic Design Lab  
@@ -65,15 +65,15 @@ _B.Sc. in Electrical and Electronic Engineering (ElectRONICS & Photonics Major)_
 
 ## 📚 Publications
 
-- **[C.1] (2025)** Design, Implementation and Verification of Five-Stage Pipeline RISC-V Core (32VI), *ECCE 2025, IEEE Xplore*  
+- **(2025)** Design, Implementation and Verification of Five-Stage Pipeline RISC-V Core (32VI), *ECCE 2025, IEEE Xplore*  
   🔗 https://ieeexplore.ieee.org/document/11013913  
 
-- **[J.1] (2025)** Bangla Speech Recognition using Power Spectral Analysis, LPC & MFCC, *IJETT (ScOPUS Indexed)*  
+- **(2025)** Bangla Speech Recognition using Power Spectral Analysis, LPC & MFCC, *IJETT (ScOPUS Indexed)*  
   🔗 https://www.researchgate.net/publication/392421277  
 
-- **[S.1] (2025)** Automated Experimental Setup to Measure L-I Characteristics of RGB LEDs (Under Review, ICCIT 2025)
+- **(2025)** Automated Experimental Setup to Measure L-I Characteristics of RGB LEDs (Under Review, ICCIT 2025)
 
-- **[T.1] (2024)** RISC-V Pipeline Core Design & Verification — Undergraduate Thesis  
+- **(2024)** RISC-V Pipeline Core Design & Verification — Undergraduate Thesis  
 
 ---
 
@@ -121,21 +121,27 @@ _B.Sc. in Electrical and Electronic Engineering (ElectRONICS & Photonics Major)_
 
 ### EDA & Simulation Software
 - Cadence Virtuoso, Innovus  
-- Quartus Prime  
+- Quartus Prime Lite 
 - OpenVAF  
 - PSpice, Arduino IDE  
-- OriginLab, Overleaf  
+- OriginLab, Overleaf
+- MATLAB 
 
 ---
 
 ## 📘 Coursework Highlights
 
-- Analog & VLSI Circuit Design  
+- Analog Circuits & Design
+- VLSI Circuits & Design
+- Compound Semiconductor Devices
+- Optoelectronics
+- Solid State Devices 
 - Semiconductor & Nano Devices  
 - Microprocessors & Embedded Systems  
 - DSP, Control Systems  
 - Communication Systems  
-- Power Electronics & Power Systems  
+- Power Electronics & Power Systems
+- Digital Electronics 
 
 ---
 
@@ -148,15 +154,16 @@ _B.Sc. in Electrical and Electronic Engineering (ElectRONICS & Photonics Major)_
 
 ## 🌐 Language & Test Scores
 
-- **TOEFL iBT:** 109 / 120 (Nov 2024)  
+- **TOEFL iBT:** 109 / 120 (Nov 2024)
+- R30, L28, S23, W28 
 - English & Bangla (Full Professional Proficiency)
 
 ---
 
 ## 🌟 Additional Information
 
-- Interests: Japanese Language Learning, Photography, Reading  
-- Research-oriented, interdisciplinary background in **VLSI + AI**
+- Interests: Japanese Language Learning, Photography, Reading, Cooking  
+- Completed multiple coursera courses on academic writing
 
 ---
 
